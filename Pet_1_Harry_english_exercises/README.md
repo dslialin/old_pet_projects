@@ -8,7 +8,7 @@
 
 ## Tasks
 
-The objective of this task is to develop english exercises based on your favourite book.
+The objective of this task is to develop english exercises based on my favourite english book.
 
 ## Used libraries
   
